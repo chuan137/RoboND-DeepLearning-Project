@@ -102,5 +102,6 @@ ENV/
 .mypy_cache/
 
 RUNS/
-data/
+data/*
+!data/weights
 
